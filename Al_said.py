@@ -4,7 +4,7 @@ import random
 from telebot import types
 
 # --- [ إعدادات الهوية الملكية ] ---
-TOKEN = '8260592712:AAFXlQC2mexOMzZAGwvLD1vmVAGxRHgwsqA' # التوكن الخاص بك
+TOKEN = '8260592712:8536473754:AAEN1ViSG2XDW_vsb18BdvNP2JXfWadhjSo' # التوكن الخاص بك
 NAME = "✮͢⦔الصاعـ⃪ـ𝄞ــ͢ـ⃪ـد🇾🇪"
 bot = telebot.TeleBot(TOKEN)
 
